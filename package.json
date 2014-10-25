@@ -1,0 +1,23 @@
+{
+  "name": "angular-song-rate-gulp",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-run": "latest",
+    "gulp-less": "latest",
+    "gulp-concat": "latest",
+    "gulp-ng-templates": "latest",
+    "gulp-uglify": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-zip": "latest",
+    "gulp-if": "latest",
+    "gulp-htmlmin": "latest",
+    "gulp-jshint": "latest",
+    "browser-sync": "latest",
+    "del": "latest",
+    "karma": "~0.12.0",
+    "karma-jasmine": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma-ng-html2js-preprocessor": "~0.1.0"
+  }
+}

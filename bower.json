@@ -1,0 +1,15 @@
+{
+	"name": "angular-song-rate-gulp",
+	"version": "0.0.1",
+	"dependencies": {
+		"angular": "latest",
+		"bootstrap": "latest",
+		"jquery": "latest",
+		"lodash": "latest",
+		"underscore.string": "latest",
+		"font-awesome": "latest"
+	},
+	"devDependencies": {
+		"angular-mocks": "latest"
+	}
+}
